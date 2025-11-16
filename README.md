@@ -1,2 +1,0 @@
-# Blrxx
-Bot
